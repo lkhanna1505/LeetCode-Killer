@@ -1,0 +1,14 @@
+## files from the all-father directory
+app.py
+leetcode_problems_with_solution.json
+leetcode_problems_with_solutions.json.backup
+
+## files from the scraper directory, it is just for testing if the scraper was working fine.
+walkccc-scrapper/input-page-code
+walkccc-scrapper/something_else_leetcode_problems_with_solutions.json
+
+## environment variables
+walkccc-scrapper/.env
+
+## the leetcode solutions
+leetcode_problems_with_solutions.json
