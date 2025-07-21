@@ -393,7 +393,3 @@ _Remember: The goal is to learn, not to cheat!_
 ---
 
 _"In a world full of manual tasks, be the automation."_ 🤖✨
-
-```
-
-```
